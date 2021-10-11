@@ -3,7 +3,7 @@ entries:
   as01p:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-10T20:17:24.428415547+02:00"
+    created: "2021-10-11T21:44:32.800326463+02:00"
     description: A Helm chart for Kubernetes
     digest: a664307bbc68a593a54216ce01c0d91c511292431f9cd64cffde61ace6235571
     name: as01p
@@ -11,4 +11,15 @@ entries:
     urls:
     - releases/as01p-0.1.0.tgz
     version: 0.1.0
-generated: "2021-10-10T20:17:24.427824037+02:00"
+  sisid:
+  - apiVersion: v2
+    appVersion: "1"
+    created: "2021-10-11T21:44:32.801019312+02:00"
+    description: SISID Helm chart for Kubernetes
+    digest: a18753d66c1241330c7971aa2e05234ddba9648f4f890e93f20e34161a485243
+    name: sisid
+    type: application
+    urls:
+    - releases/sisid-0.2.0.tgz
+    version: 0.2.0
+generated: "2021-10-11T21:44:32.784888012+02:00"
